@@ -61,7 +61,7 @@ Si vous ne fournissez pas de fichier en argument, le script vous demandera de sa
 
 ## 🔧 **Configuration**
 
-Avant d'exécuter le script, vous devez remplacer `YOUR_API_KEY` par votre propre clé API OpenAI dans le fichier `traduct.sh`.
+Avant d'exécuter le script, vous devez remplacer `YOUR_API_KEY` par votre propre clé API OpenAI dans le fichier `traduct.sh` a la ligne 106.
 
 ```bash
 API_KEY="YOUR_API_KEY"
